@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "97634801029",
+    "project_id": "rapidaid-e31cc",
+    "storage_bucket": "rapidaid-e31cc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97634801029:android:08afb7b3c9df5d38e3a0ec",
+        "android_client_info": {
+          "package_name": "com.mycompany.rapidaid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7sJdgT2k7eAO6yZ340BOy8Wl7bNB9M4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97634801029:android:8890c4f4e9dfdca0e3a0ec",
+        "android_client_info": {
+          "package_name": "com.mycompany.travelapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7sJdgT2k7eAO6yZ340BOy8Wl7bNB9M4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
